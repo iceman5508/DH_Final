@@ -1,0 +1,175 @@
+{
+  "nodes": [
+    {
+      "name": "Romeo and Juliet",
+      "artist": "William Shakespeare",
+      "id": "romeo_and_juliet",
+      "playcount": 1481366
+    },
+    {
+      "id": "West_Side_Story",
+      "match": 1.0,
+      "name": "West Side Story",
+      "artist": "Arthur Laurents",
+      "playcount": 658991
+    },
+    {
+      "id": "Anna_Karenina",
+      "match": 0.983114,
+      "name": "Anna Karenina",
+      "artist": "Leo Tolstoy",
+      "playcount": 769843
+    },
+    {
+      "id": "The_House_of_Mirth",
+      "match": 0.196092,
+      "name": "The House of Mirth",
+      "artist": "Edith Wharton",
+      "playcount": 1540693
+    },
+    {
+      "id": "The_Great_Gatsby",
+      "match": 0.195602,
+      "name": "The Great Gatsby",
+      "artist": "F. Scott Fitzgerald",
+      "playcount": 982826
+    },
+    {
+      "id": "Madame_Bovary",
+      "match": 0.190388,
+      "name": "Madame Bovary",
+      "artist": "Gustave Flaubert",
+      "playcount": 1886205
+    },
+    {
+      "id": "Brokeback_Mountain",
+      "match": 0.183785,
+      "name": "Brokeback Mountain",
+      "artist": "Annie Proulx",
+      "playcount": 1226814
+    },
+    {
+      "id": "The_Hunchback_of_Notre_Dame",
+      "match": 0.179382,
+      "name": "The Hunchback of Notre Dame",
+      "artist": "Victor Hugo",
+      "playcount": 1531591
+    },
+    {
+      "id": "Wuthering_Heights",
+      "match": 0.179189,
+      "name": "Wuthering Heights",
+      "artist": "Emily Brontë",
+      "playcount": 1039480
+    },
+    {
+      "id": "Titanic",
+      "match": 1.0,
+      "name": "Titanic",
+      "artist": "James Cameron",
+      "playcount": 1144539
+    },
+    {
+      "id": "Tristan_and_Isolde",
+      "match": 0.86406,
+      "name": "Tristan and Isolde",
+      "artist": "Joseph Bédier",
+      "playcount": 1120364
+    },
+    {
+      "id": "Warm_Bodies",
+      "match": 0.170235,
+      "name": "Warm Bodies",
+      "artist": "Isaac Marion",
+      "playcount": 922231
+    },
+    {
+      "id": "Jane_Eyre",
+      "match": 0.439593,
+      "name": "Jane Eyre",
+      "artist": "Charlotte Brontë",
+      "playcount": 519409
+    },
+    {
+      "id": "Twilight",
+      "match": 0.987654,
+      "name": "Twilight",
+      "artist": "Stephenie Meyer",
+      "playcount": 1370255
+    }
+    
+  ],
+  "links": [
+    {
+      "source": "romeo_and_juliet",
+      "target": "West_Side_Story"
+    },
+    {
+      "source": "romeo_and_juliet",
+      "target": "Anna_Karenina"
+    },
+    {
+      "source": "romeo_and_juliet",
+      "target": "Titanic"
+    },
+     {
+      "source": "romeo_and_juliet",
+      "target": "Twilight"
+    },
+    {
+      "source": "romeo_and_juliet",
+      "target": "Tristan_and_Isolde"
+    },
+    {
+      "source": "romeo_and_juliet",
+      "target": "Warm_Bodies"
+    },
+     {
+      "source": "Anna_Karenina",
+      "target": "The_House_of_Mirth"
+    },    
+    {
+      "source": "The_House_of_Mirth",
+      "target": "The_Great_Gatsby"
+    },
+    {
+      "source": "Anna_Karenina",
+      "target": "Titanic"
+    },
+    {
+      "source": "Anna_Karenina",
+      "target": "Madame_Bovary"
+    },
+    {
+      "source": "Twilight",
+      "target": "Warm_Bodies"
+    },
+    {
+      "source": "Twilight",
+      "target": "Brokeback_Mountain"
+    }
+    ,
+    {
+      "source": "Twilight",
+      "target": "The_Hunchback_of_Notre_Dame"
+    },
+
+    {
+      "source": "Titanic",
+      "target": "Jane_Eyre"
+    }
+     ,
+    {
+      "source": "Titanic",
+      "target": "The_House_of_Mirth"
+    },
+     {
+      "source": "Titanic",
+      "target": "West_Side_Story"
+    }
+    
+    
+    
+     
+  ]
+}

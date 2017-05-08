@@ -1,0 +1,59 @@
+{
+  "nodes": [
+    {
+      "match": 1.0,
+      "name": "Interaction",
+      "artist": "House",
+      "id": "interaction",
+      "playcount": 111
+    },
+    {
+      "match": 1.0,
+      "name": "Social",
+      "artist": "House",
+      "id": "Soical",
+      "playcount": 58
+    },
+    {
+      "match": 1.0,
+      "name": "Romantic",
+      "artist": "House",
+      "id": "Romantic",
+      "playcount": 9
+    },
+    {
+      "match": 1.0,
+      "name": "Financial",
+      "artist": "House",
+      "id": "Financial",
+      "playcount": 20
+    },
+    {
+      "match": 1.0,
+      "name": "Predatory",
+      "artist": "House",
+      "id": "Predatory",
+      "playcount": 5
+    },
+    {
+      "match": 1.0,
+      "name": "Charitable",
+      "artist": "House",
+      "id": "Charitable",
+      "playcount": 4
+    },
+    {
+      "match": 1.0,
+      "name": "Logistical",
+      "artist": "House",
+      "id": "Logistical",
+      "playcount": 13
+    }
+  ],
+  "links": [
+    {
+      "source": "Interaction",
+      "target": "Soical"
+    }
+  ]
+}
